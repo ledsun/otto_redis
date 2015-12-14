@@ -1,0 +1,8 @@
+application {
+  name = "otto-getting-started"
+  type = "node"
+
+  dependency {
+    source = "./redis"
+  }
+}
